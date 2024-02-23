@@ -10,7 +10,7 @@
 <!-- Contact Details and Connect with Me -->
 ## 📫 Contact & Connect
 - 📧 Email: stunipfm@duck.com
-- 💼 LinkedIn: [FazliRaziq]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/fazli-raziq-46a0075b/))
+- 💼 LinkedIn: [FazliRaziq](https://www.linkedin.com/in/fazli-raziq-46a0075b/)
 
 <!-- Skills Section -->
 ## 💻 Skills
