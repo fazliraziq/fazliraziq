@@ -36,9 +36,11 @@
 ## 👔 Professional Experiences
 As a highly skilled professional with seven years of experience in the software industry, I have a proven track record of delivering innovative solutions, driving process improvements, and achieving outstanding results. My expertise encompasses Android development, ERP solutions, AI applications, and project management. Throughout my career, I have been recognized for my exceptional performance, including awards for project completions, outstanding success in production, and being named "Employee of the Year." I possess proficiency in a wide range of technologies, including Typescript/JavaScript, Android Studio, Java, Spring Boot, JSP, Hibernate, React, Angular, and AWS Lambda. As a strong leader, I excel in collaborating effectively with cross-functional teams, delivering exceptional outcomes in fast-paced and challenging environments. I am confident that my skills, experience, and achievements make me a valuable asset to any organization seeking a dedicated and results-driven professional.
 
+<!-- GitHub Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazliraziq&layout=compact&hide_border=true)
 
 <!-- GitHub Stats (Optional) -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazliraziq&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazliraziq&show_icons=true&hide_border=true)
 
 <!-- Visitors Counter (Optional) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=fazliraziq&color=blue)
