@@ -1,6 +1,6 @@
 <!-- Profile Image and Title -->
 <p align="center">
-  <img src="your_profile_image_url.jpg" alt="Your Name" width="200"/>
+  <img src="me.jpg" alt="Fazli Raziq" width="200"/>
 </p>
 
 # Hello, I'm Faz!
@@ -10,7 +10,7 @@
 <!-- Contact Details and Connect with Me -->
 ## 📫 Contact & Connect
 - 📧 Email: stunipfm@duck.com
-- 💼 LinkedIn: [YourLinkedInProfile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/fazli-raziq-46a0075b/))
+- 💼 LinkedIn: [FazliRaziq]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/fazli-raziq-46a0075b/))
 
 <!-- Skills Section -->
 ## 💻 Skills
