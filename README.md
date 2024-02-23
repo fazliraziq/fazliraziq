@@ -28,9 +28,9 @@
 
 <!-- Project Live URLs for Demo -->
 ## 🚀 Project Demos
-1. [Dragon AI](https://project1demo.yourwebsite.com) - A tool for using AI features.
-2. [Krypt](https://project2demo.yourwebsite.com) - A Tool for sending Ethereium. 
-3. [AI Sumz](https://project3demo.yourwebsite.com) - A tool for summerizing an article from web.
+1. [Dragon AI](https://dragon-ai-saas.vercel.app/) - A tool for using AI features.
+2. [Krypt](http://tinyurl.com/368p2445) - A Tool for sending Ethereium. 
+3. [AI Sumz](https://ai-summery.vercel.app/) - A tool for summerizing an article from web.
 
 <!-- Professional Experiences Section -->
 ## 👔 Professional Experiences
