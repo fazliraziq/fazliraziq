@@ -3,50 +3,42 @@
   <img src="your_profile_image_url.jpg" alt="Your Name" width="200"/>
 </p>
 
-# Hello, I'm Your Name
-#### Software Developer | Enthusiast | Lifelong Learner
+# Hello, I'm Faz!
+#### Software Developer | Product Development | Artificial Intelligence | Cyber Security
+
 
 <!-- Contact Details and Connect with Me -->
 ## 📫 Contact & Connect
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- 🌐 Portfolio: [YourPortfolioWebsite](https://www.yourportfoliowebsite.com)
+- 📧 Email: stunipfm@duck.com
+- 💼 LinkedIn: [YourLinkedInProfile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/fazli-raziq-46a0075b/))
 
 <!-- Skills Section -->
 ## 💻 Skills
-- **Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Node.js
-- **Database:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Other:** Problem Solving, Agile Development, Team Collaboration
+- **Languages:** JavaScript,Typescript, Python, Java
+- **Web Development:** HTML, CSS, React, Angular , Nextjs , Nestjs , Typeorm , Express , Serverless , Aws
+- **Database:** MongoDB, MySQL , Postgress
+- **Tools & Platforms:** Git, GitHub, VS Code , Android Studio , Figma , Canva
+- **Other:** Product Development , Problem Solving, Agile Development, Team Collaboration 
 
 <!-- Achievements Section -->
 ## 🏆 Achievements
-- Received XYZ Award for Outstanding Contribution in [Category]
-- Published a tech blog on [Platform] with over 10k reads
-- Completed [Certification] in [Year]
+- Employee of the Year
+- Project Completion Certificates
+- Commercially launched a product Nation wide 
 
 <!-- Project Live URLs for Demo -->
 ## 🚀 Project Demos
-1. [Project Name 1](https://project1demo.yourwebsite.com) - Brief description of the project.
-2. [Project Name 2](https://project2demo.yourwebsite.com) - Brief description of the project.
-3. [Project Name 3](https://project3demo.yourwebsite.com) - Brief description of the project.
+1. [Dragon AI](https://project1demo.yourwebsite.com) - A tool for using AI features.
+2. [Krypt](https://project2demo.yourwebsite.com) - A Tool for sending Ethereium. 
+3. [AI Sumz](https://project3demo.yourwebsite.com) - A tool for summerizing an article from web.
 
 <!-- Professional Experiences Section -->
 ## 👔 Professional Experiences
-### Software Engineer | ABC Tech Solutions | [Joining Date] - Present
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-- Implemented new features and optimized existing codebase for improved performance.
-- Conducted code reviews and provided constructive feedback to team members.
+As a highly skilled professional with seven years of experience in the software industry, I have a proven track record of delivering innovative solutions, driving process improvements, and achieving outstanding results. My expertise encompasses Android development, ERP solutions, AI applications, and project management. Throughout my career, I have been recognized for my exceptional performance, including awards for project completions, outstanding success in production, and being named "Employee of the Year." I possess proficiency in a wide range of technologies, including Typescript/JavaScript, Android Studio, Java, Spring Boot, JSP, Hibernate, React, Angular, and AWS Lambda. As a strong leader, I excel in collaborating effectively with cross-functional teams, delivering exceptional outcomes in fast-paced and challenging environments. I am confident that my skills, experience, and achievements make me a valuable asset to any organization seeking a dedicated and results-driven professional.
 
-### Junior Developer | XYZ Software Company | [Start Date] - [End Date]
-- Worked on the development of [Project Name] from concept to deployment.
-- Collaborated with the UI/UX team to enhance the user interface and user experience.
-- Resolved bugs and improved application functionality based on user feedback.
 
 <!-- GitHub Stats (Optional) -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazliraziq&show_icons=true&hide_border=true)
 
 <!-- Visitors Counter (Optional) -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fazliraziq&color=blue)
