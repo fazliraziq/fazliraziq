@@ -31,6 +31,8 @@
 1. [Dragon AI](https://dragon-ai-saas.vercel.app/) - A tool for using AI features.
 2. [Krypt](http://tinyurl.com/368p2445) - A Tool for sending Ethereium. 
 3. [AI Sumz](https://ai-summery.vercel.app/) - A tool for summerizing an article from web.
+4. [TicTacToe]([https://ai-summery.vercel.app/](https://tictac-three-ruby.vercel.app/) - TicTacToe 5x5 with three players.
+
 
 <!-- Professional Experiences Section -->
 ## 👔 Professional Experiences
