@@ -4,7 +4,7 @@
 </p>
 
 # Hello, I'm Faz!
-#### Software Developer | Product Development | Artificial Intelligence | Cyber Security
+#### Full Stack Developer | Product Development | Artificial Intelligence | Cyber Security
 
 
 <!-- Contact Details and Connect with Me -->
