@@ -28,10 +28,11 @@
 
 <!-- Project Live URLs for Demo -->
 ## 🚀 Project Demos
-1. [Dragon AI](https://dragon-ai-saas.vercel.app/) - A tool for using AI features.
-2. [Krypt](http://tinyurl.com/368p2445) - A Tool for sending Ethereium. 
-3. [AI Sumz](https://ai-summery.vercel.app/) - A tool for summerizing an article from web.
-4. [TicTacToe](https://tictac-three-ruby.vercel.app/) - TicTacToe 5x5 with three players.
+1. [My Profile Terminal](https://portfolio-kappa-drab-20.vercel.app/) - A Mac Terminal to showcase my profile.
+2. [Dragon AI](https://dragon-ai-saas.vercel.app/) - A tool for using AI features.
+3. [Krypt](http://tinyurl.com/368p2445) - A Tool for sending Ethereium. 
+4. [AI Sumz](https://ai-summery.vercel.app/) - A tool for summerizing an article from web.
+5. [TicTacToe](https://tictac-three-ruby.vercel.app/) - TicTacToe 5x5 with three players.
 
 
 <!-- Professional Experiences Section -->
